@@ -12,5 +12,7 @@
 #### chrome 扩展开发
 - [干货】Chrome插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
 
+#### 开发工具
 
+- [最适合程序员的笔记软件](https://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html)
 
